@@ -1,0 +1,11 @@
+title: Horizons
+description: Notes on becoming.
+url: https://myaccount.github.io
+baseurl: /reveal
+permalink: /:slug/
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+timezone: Europe/Berlin
