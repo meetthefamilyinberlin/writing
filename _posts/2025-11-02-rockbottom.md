@@ -1,0 +1,8 @@
+---
+layour: post
+title: Rockbottom
+---
+I've hit rockbottom at work. After snapping at people during team meetings for the past couple weeks, I've pretty much fallen apart completely on Friday morning while working on a pretty straightforward assignment with two colleagues. Between my feeling that I am not ready to contribute to the assignment to the extent that I should have – because I just haven't put in the effort required over the past few months – and working with two colleagues that I feel somewhat inferior to because they have stronger math and stats backgrounds, it all became too much and I felt like I just melted away. Part of me wanted to cry. Part of me just felt empty. Part of me also felt stressed. It was the worst experience I've had in all of my professional life.
+
+I think it all just came together. Years of forcing myself to be good at something that, deep down, I knew wasn't quite for me. I've been asking myself for years now whether this is really the line of work I should be in. Just like in a relationship, you should you have a problem if you keep questioning whether this is right – the very fact that you keep asking the question is your answer. But for years, I've ignored this feeling, and just pushed on. I've worked very hard and for a long time. And so I've reached a level of competence that is very decent. But now that I get to work with people who would have similar commitment to the work as I do, it's very clear that they're on a different level. Or at least that's what it feels like to me. With most of them. And I think it's true. Brute force learning can't compete with lots of learning and intrinsic motivation. And so here I am, feeling inferior to my colleagues.
+
