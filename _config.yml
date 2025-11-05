@@ -1,7 +1,7 @@
 title: Horizons
 description: Notes on becoming.
 url: https://myaccount.github.io
-baseurl: /reveal
+baseurl: /writing
 permalink: /:slug/
 markdown: kramdown
 theme: null
