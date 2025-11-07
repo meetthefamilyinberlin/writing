@@ -128,3 +128,4 @@ pre {
   /* Optional: keep links from wrapping too soon */
   .post-list a { min-width: 0; }
   
+  time { outline: 1px dashed red; }
