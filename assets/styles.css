@@ -108,24 +108,20 @@ pre {
     overflow-x: visible !important;
 }
 
-/* Posts list layout */
-.post-list li {
+/* Layout any LI that contains a <time> (your date) */
+main li:has(> time) {
     display: grid;
-    grid-template-columns: 12ch 1fr; /* room for `07 Nov 2025` */
+    grid-template-columns: 12ch 1fr;
     column-gap: 1rem;
     align-items: baseline;
   }
   
-  /* The date element (use <time> or add class="post-date") */
-  .post-list time,
-  .post-list .post-date {
-    /* make numbers monospaced so each date has identical width */
+  /* Make date digits uniform width */
+  main li > time {
     font-variant-numeric: tabular-nums;
-    font-feature-settings: "tnum"; /* fallback */
+    font-feature-settings: "tnum";
     color: var(--muted);
   }
   
-  /* Optional: keep links from wrapping too soon */
-  .post-list a { min-width: 0; }
-  
-  time { outline: 1px dashed red; }
+  /* Prevent early wrapping of long titles */
+  main li > a { min-width: 0; }
