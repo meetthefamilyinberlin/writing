@@ -112,7 +112,7 @@ pre {
 /* column-gap determines space between date and title on blog page */
 main li:has(> time) {
     display: grid;
-    grid-template-columns: 9ch 1fr;
+    grid-template-columns: 11ch 1fr;
     column-gap: 0.2rem;
     align-items: baseline;
   }
