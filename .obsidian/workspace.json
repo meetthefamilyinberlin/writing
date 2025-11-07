@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-11-05-shame.md",
+                "file": "_posts/2025-11-07-self-medicating-myself.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-05-shame"
+              "title": "2025-11-07-self-medicating-myself"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2f4c394ed5167d4c",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2025-11-05-shame.md",
+                "file": "_posts/2025-11-07-self-medicating-myself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-11-05-shame"
+              "title": "Backlinks for 2025-11-07-self-medicating-myself"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-11-05-shame.md",
+                "file": "_posts/2025-11-07-self-medicating-myself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-11-05-shame"
+              "title": "Outgoing links from 2025-11-07-self-medicating-myself"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-11-05-shame.md",
+                "file": "_posts/2025-11-07-self-medicating-myself.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-05-shame"
+              "title": "Outline of 2025-11-07-self-medicating-myself"
             }
           }
         ]
@@ -172,6 +173,7 @@
   "active": "11fe865b78357a63",
   "lastOpenFiles": [
     "_posts/2025-11-06-another-day.md",
+    "_posts/2025-11-07-self-medicating-myself.md",
     "_posts/2025-11-05-shame.md",
     "_posts/2025-11-02-rockbottom.md"
   ]

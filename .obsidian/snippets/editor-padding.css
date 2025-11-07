@@ -1,0 +1,17 @@
+/* Add ~5cm bottom padding across all views in Minimal theme */
+
+/* Live Preview & Source Mode */
+.markdown-source-view.mod-cm6 .cm-editor .cm-scroller {
+  padding-bottom: 5cm !important;
+}
+
+/* Legacy Editor (just in case) */
+.markdown-source-view.mod-cm5 .cm-content {
+  padding-bottom: 5cm !important;
+}
+
+/* Reading Mode */
+.markdown-preview-view.is-readable-line-width {
+  padding-bottom: 5cm !important;
+}
+

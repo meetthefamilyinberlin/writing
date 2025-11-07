@@ -1,3 +1,9 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": false,
+  "showRibbon": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "editor-padding"
+  ]
 }
