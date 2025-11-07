@@ -112,7 +112,7 @@ pre {
 main li:has(> time) {
     display: grid;
     grid-template-columns: 12ch 1fr;
-    column-gap: 1rem;
+    column-gap: 0.5rem;
     align-items: baseline;
   }
   
