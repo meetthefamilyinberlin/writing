@@ -107,3 +107,24 @@ code {
 pre {
     overflow-x: visible !important;
 }
+
+/* Posts list layout */
+.post-list li {
+    display: grid;
+    grid-template-columns: 12ch 1fr; /* room for `07 Nov 2025` */
+    column-gap: 1rem;
+    align-items: baseline;
+  }
+  
+  /* The date element (use <time> or add class="post-date") */
+  .post-list time,
+  .post-list .post-date {
+    /* make numbers monospaced so each date has identical width */
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: "tnum"; /* fallback */
+    color: var(--muted);
+  }
+  
+  /* Optional: keep links from wrapping too soon */
+  .post-list a { min-width: 0; }
+  
