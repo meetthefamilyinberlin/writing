@@ -1,6 +1,6 @@
 ---
 layour: post
-title: Self-medicating myself
+title: Self-medicating
 ---
 Cashews and goji berries have been my medicine for weeks now. I eat them by the handfuls. Sometimes multiple times per day. As far as unhealthy habits go, this is not a bad one, I supposed. At least the excess calories are from healthy sources. That's what I've been telling myself. But a form of self-medication it still is. Or, in the language of Internal Family Systems, a language I'm slowly familiarising myself with, the overeating is a protector. What is it protecting me from, I wonder? In that moment, what is it afraid I'll feel if I don't eat? I can't tell. Because so far I've always eaten. Or just about always.
 
