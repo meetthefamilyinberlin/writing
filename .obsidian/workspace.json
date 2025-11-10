@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-11-07-self-medicating.md",
+                "file": "_posts/2025-11-10-a-matter-of-perspective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-07-self-medicating"
+              "title": "2025-11-10-a-matter-of-perspective"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "11fe865b78357a63",
   "lastOpenFiles": [
-    "_posts/2025-11-06-another-day.md",
     "_posts/2025-11-07-self-medicating.md",
+    "_posts/2025-11-10-a-matter-of-perspective.md",
+    "_posts/2025-11-06-another-day.md",
     "_posts/2025-11-05-shame.md",
     "_posts/2025-11-02-rockbottom.md"
   ]

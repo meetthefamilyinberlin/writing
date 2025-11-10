@@ -1,0 +1,9 @@
+---
+layour: post
+title: A matter of perspective
+---
+I was reading *The Book of Five Rings* when I suddenly felt the urge to be active. My first thought went to building something with LEGO (I bought myself a set a few months ago to see whether it could become a hobby). But unpacking it all now would be too much work and didn't feel worth it. So I write instead.
+
+We visited friends in St. Albans over the weekend. It was meaningful and a real pleasure to meet former neighbours and colleagues. And neither M nor I felt any sense of nostalgia about not not living there any longer. We loved it there when we were there but would not wanna go back there now. For one thing, the parts that are beautiful are small and started to feel limiting to us even then (we asked ourselves whether walking round the little lake in the park right by our house is really what we want to do for the rest of our lives). For another, the parts that aren't that nice look worse now that we've gained some distance and lived in Berlin. The housing stock is just incredibly old, and most areas look rundown. Overall, the place just doesn't look like it's thriving. I had that sense even during my brief visit to the centre of London on my way up from Gatwick. I still find it fascinating to be there, but I don't miss living there.
+
+I wonder whether I'm about to experience something similar with my work. I've been so immersed into the world of data science / causal inference / experimentation that the conversations around it, my actual work itself, the specific projects I've been working on, pleasing and impressing the people I've been working with, all have become centrally important. Increasingly, I start to see these things differently.
