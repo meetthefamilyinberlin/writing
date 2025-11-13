@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1753411875588,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1753411867215,
+          "path": "Home.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1753411867215,
+          "path": "__todo.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1758900796887,
+          "path": "2025m09 – Sep 2025.md",
+          "title": "Levit at MIT"
+        }
+      ],
+      "title": "Life"
+    },
+    {
+      "type": "group",
+      "ctime": 1753411943451,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1753411929332,
+          "path": "wodo.md"
+        }
+      ],
+      "title": "Work"
+    }
+  ]
+}

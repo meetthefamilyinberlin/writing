@@ -1,3 +1,20 @@
 {
-  "showInlineTitle": true
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "newFileLocation": "root",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 77
+  },
+  "showLineNumber": false,
+  "mobilePullAction": "switcher:open",
+  "vimMode": false,
+  "foldHeading": true,
+  "foldIndent": false,
+  "showIndentGuide": true,
+  "readableLineLength": true
 }

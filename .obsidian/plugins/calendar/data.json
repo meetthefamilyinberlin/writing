@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": false,
+  "weekStart": "monday",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "gggg[w]ww",
+  "weeklyNoteTemplate": "Areas/Obsidian/Templates/WeeklyNote",
+  "weeklyNoteFolder": "Areas/Obsidian/WeeklyNotes",
+  "localeOverride": "system-default"
+}
