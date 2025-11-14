@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025m08 – Aug 2025.md",
+                "file": "_posts/2025-11-11-making-the-most-of-what-i-have.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025m08 – Aug 2025"
+              "title": "2025-11-11-making-the-most-of-what-i-have"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cdf43078e634844f",
