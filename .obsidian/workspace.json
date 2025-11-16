@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-11-11-making-the-most-of-what-i-have.md",
+                "file": "_posts/2025-11-16-dukkha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-11-making-the-most-of-what-i-have"
+              "title": "2025-11-16-dukkha"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cdf43078e634844f",
@@ -186,6 +187,8 @@
   },
   "active": "4aeca32cb1322da6",
   "lastOpenFiles": [
+    "_posts/2025-11-11-making-the-most-of-what-i-have.md",
+    "_posts/2025-11-16-dukkha.md",
     "Obsidian setup.md",
     "Home.md",
     "Input/Screenshot 2025-03-21 at 22.45.15.png",
@@ -220,8 +223,6 @@
     "Apple notes decisions.md",
     "Principles.md",
     "Training library.md",
-    "zFeedback to colleagues.md",
-    "JET – Performance.md",
     "Daily notes",
     "Templates",
     "Clippings",
