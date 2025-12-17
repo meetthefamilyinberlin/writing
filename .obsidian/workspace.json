@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-11-16-sitting"
             }
+          },
+          {
+            "id": "c1a9a274c6b6804f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "4aeca32cb1322da6",
+  "active": "c1a9a274c6b6804f",
   "lastOpenFiles": [
     "_posts/2025-11-11-making-the-most-of-what-i-have.md",
     "_posts/2025-11-16-sitting.md",
