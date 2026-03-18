@@ -44,9 +44,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.7"
             }
+          },
+          {
+            "id": "a73b976cfbe2c131",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "101459f423cb2d6e",
+  "active": "a73b976cfbe2c131",
   "lastOpenFiles": [
     "_posts/2025-11-11-making-the-most-of-what-i-have.md",
     "_posts/2025-11-16-sitting.md",
