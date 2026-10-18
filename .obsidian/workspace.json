@@ -61,12 +61,14 @@
             "id": "b02c60f810d8c1b4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "_posts/2025-11-11-making-the-most-of-what-i-have.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "2025-11-11-making-the-most-of-what-i-have"
             }
           }
         ],
@@ -90,7 +92,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -127,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cdf43078e634844f",
@@ -207,8 +210,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -220,24 +223,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "b02c60f810d8c1b4",
   "lastOpenFiles": [
-    "_posts/2025-11-11-making-the-most-of-what-i-have.md",
+    "_posts/2025-10-28-simply-begin-again.md",
     "_posts/2025-11-16-sitting.md",
+    "_posts/2025-11-07-self-medicating.md",
+    "_posts/2025-11-02-rockbottom.md",
+    "_posts/2025-10-25-moment-of-clarity.md",
+    "_posts/2025-10-08-hello-world.md",
+    "_posts/2025-11-11-making-the-most-of-what-i-have.md",
     "Obsidian setup.md",
     "Home.md",
     "Input/Screenshot 2025-03-21 at 22.45.15.png",
@@ -267,11 +275,6 @@
     "Libre3 CGM tracking.md",
     "Pathologies.md",
     "Company notes.md",
-    "Interview prep – Behavioural interviews.md",
-    "zIdeas.md",
-    "Apple notes decisions.md",
-    "Principles.md",
-    "Training library.md",
     "Daily notes",
     "Templates",
     "Clippings",
