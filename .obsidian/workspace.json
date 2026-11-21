@@ -49,12 +49,14 @@
             "id": "a73b976cfbe2c131",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "_posts/2025-11-06-another-day.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "2025-11-06-another-day"
             }
           }
         ],
@@ -225,12 +227,16 @@
   },
   "active": "a73b976cfbe2c131",
   "lastOpenFiles": [
-    "_posts/2025-11-11-making-the-most-of-what-i-have.md",
+    "_posts/2025-11-05-shame.md",
+    "_posts/2025-11-02-rockbottom.md",
+    "_posts/2025-10-31-just-write-something.md",
     "_posts/2025-10-28-simply-begin-again.md",
+    "_posts/2025-10-26-not-being-afraid-is-hard.md",
+    "_posts/2025-10-26-missing-the-signs.md",
+    "_posts/2025-10-25-moment-of-clarity.md",
+    "_posts/2025-11-11-making-the-most-of-what-i-have.md",
     "_posts/2025-11-16-sitting.md",
     "_posts/2025-11-07-self-medicating.md",
-    "_posts/2025-11-02-rockbottom.md",
-    "_posts/2025-10-25-moment-of-clarity.md",
     "_posts/2025-10-08-hello-world.md",
     "Obsidian setup.md",
     "Home.md",
@@ -257,10 +263,6 @@
     "JET – Meetings.md",
     "PhD.md",
     "zOnboarding.md",
-    "Diet library.md",
-    "Libre3 CGM tracking.md",
-    "Pathologies.md",
-    "Company notes.md",
     "Daily notes",
     "Templates",
     "Clippings",
